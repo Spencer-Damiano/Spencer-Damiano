@@ -18,8 +18,6 @@ Updated - 2022/06/15
     - Blockchain work
     - Anything else you think I could be of use of
 - 📫 How to reach me ...
-    - Instagram @SpencerDamiano
-    - Reddit @Johnny-Rocko
-    - Discord @Johnny-Rocko #2076
+    - spencer.damiano@gmail.com
 
 

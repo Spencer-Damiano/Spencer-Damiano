@@ -8,7 +8,6 @@ Updated - 2022/06/15
 - 👋 Hi, I’m @Spencer-Damiano
 - 👀 I’m interested in ...
     - Blockchain Technology (biased towards Cardano)
-    - The United States Space Force. Have a goal of comissioning as a officer
     - Learning more! New to this world.
 - 🌱 I’m currently learning ...
     - Python

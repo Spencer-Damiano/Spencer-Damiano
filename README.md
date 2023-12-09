@@ -15,7 +15,7 @@ Updated - 2023/09/16
     - Haskel / Plutus (the smart contract language for Cardano)
     - Anything else I can get my hands on
 - 📜 Resume
-    - https://spencer-damiano.github.io/Damiano_Resume/
+    - https://spencer-damiano.github.io/damiano-resume/
 - 📫 How to reach me ...
     - spencer.damiano@gmail.com
 

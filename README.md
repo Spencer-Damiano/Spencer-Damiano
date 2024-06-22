@@ -12,7 +12,6 @@ Updated - 2023/09/16
     - Learning More
 - 🌱 I’m currently learning ...
     - Python
-    - Haskel / Plutus (the smart contract language for Cardano)
     - Anything else I can get my hands on
 - 📜 Resume
     - https://spencer-damiano.github.io/damiano-resume/
